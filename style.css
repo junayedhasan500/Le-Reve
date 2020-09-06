@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/*---------Top Nav Style Start-------*/
+.hotline h6{
+    font-size: 12px;
+    color: #999999;
+}
+.hotline img{
+    width: 12px;
+    float: left;
+    margin-right: 15px;
+    
+    
+}
+.top-nav a{
+    font-size: 12px;
+    color: #999999;
+}
+/*---------------Top Nav Style End----------*/
+
+/*---------------Logo and Search bar Style Start----------*/
+.logo img{
+    width: 220px;
+    margin-left: 30px;
+}
+.search-bar input{
+    width: 85%;
+    margin-left: 100px;
+    border-radius: 25px;
+    height: 32px;
+    font-size: 12px;   
+    color: #313131;
+    line-height: 30px;
+    padding: 6px;
+    position: relative;
+    display: block;
+    background: rgb(247, 247, 247);
+    border: 1px solid silver;
+    font-family: font-family: 'Roboto', sans-serif;
+}
+.search-bar input:focus{
+    background-color: white;
+    
+}
+/*---------------Logo and Search bar Style End----------*/
+
+/*---------------Menu bar Style Start----------*/
+.horizontal{
+    margin-top: -5px;
+    
+}
+
+.menu-bar{
+    width: 90%;
+    margin-left: 70px;
+ 
+}
+
+.menu-bar a{
+    font-size: 88%;
+    color: black;
+    font-weight: 600;
+}
+
+.cart-number h6{
+    font-size: 12px;
+    
+    
+}
+.dropdown-menu{
+    height: 120px;
+}
+.dropdown-menu h3{
+    font-size: 12px;
+    font-weight: bold;
+    margin-left: 25px;
+    
+}
+
+.dropdown-menu ul a{
+    color: #777;
+    font-size: 12px;
+    transition: .1s;
+}
+.dropdown-menu ul a:hover{
+    font-size: 15px;
+    background-color: white;
+    
+}
+
+
+/*---------------Menu bar Style End----------*/
+
+
+/*---------------Slide bar Style Start----------*/
+/*---------------Slide bar Style Start----------*/
+
+/*---------------Body One Style Start----------*
+/*---------------Body One Style End----------*/
+
+/*---------------Body New Arrival Style Start----------*/
+.text-arrival{
+    margin-top: 50px;
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.body-menu a{
+    margin-left: 70px;
+    padding-bottom: 13px;
+    border-bottom: 1px dotted silver;
+    font-size: 14px;
+    font-weight: 700;
+    color: grey;
+    text-decoration: none;
+}
+.body-menu a:hover{
+    
+    border-right: 5px solid blue;
+    color: black;
+    
+}
+
+
+/*---------------Body New Arrival Style End----------*/
